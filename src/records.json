@@ -1,0 +1,22 @@
+[{
+        "id": 0,
+        "titulo": "Aveia sem Casca",
+        "descricao": "A aveia tem sido um alimento básico em muitas partes do mundo.",
+        "preco": "10,00",
+        "img": "https://cdn.awsli.com.br/600x700/2386/2386537/produto/153531456f137f93fd1.jpg"
+    },
+    {
+        "id": 1,
+        "titulo": "Girassol Graudo",
+        "descricao": "O Girassol Graúdo é uma ração indicada para pássaros de grande porte.",
+        "preco": "12,00",
+        "img": "https://cdn.awsli.com.br/600x700/2386/2386537/produto/153550159b7e5b9700b.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "Chocoball",
+        "descricao": "O Chocoboll é um cereal rico em vitaminas, minerais e fibras que proporciona mais saúde.",
+        "preco": "10,00",
+        "img": "https://cdn.awsli.com.br/600x700/2386/2386537/produto/216293686a901d40e08.jpg"
+    }
+]

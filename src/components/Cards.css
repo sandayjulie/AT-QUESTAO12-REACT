@@ -1,0 +1,23 @@
+.card:hover {
+    transform: scale(1.06);
+    transition: transform 0.3s ease;
+}
+
+.card {
+  width: auto;
+  height: 310px;
+  border: #000229;
+}
+
+.card-body{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+} 
+
+.card-title {
+  font-size: 40px;
+  font-weight: bold;
+  font-style: inherit;
+  color:#000229
+} 
